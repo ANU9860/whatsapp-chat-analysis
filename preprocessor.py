@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import re
 import pandas as pd
 
@@ -31,7 +31,7 @@ def preprocess(data):
     df['hour'] = df['date'].dt.hour
     df['minute'] = df['date'].dt.minute
 
-=======
+
 import re
 import pandas as pd
 
