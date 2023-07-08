@@ -216,4 +216,4 @@ def month_activity_map(selected_user,df):
 
 
 
->>>>>>> 04ec2be81ce39557c0082fc46eadd74e29858bb0
+
