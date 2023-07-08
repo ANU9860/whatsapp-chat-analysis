@@ -64,5 +64,5 @@ def preprocess(data):
     df['hour'] = df['date'].dt.hour
     df['minute'] = df['date'].dt.minute
 
->>>>>>> 04ec2be81ce39557c0082fc46eadd74e29858bb0
+
     return df
