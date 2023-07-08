@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import preprocessor
 import helper
