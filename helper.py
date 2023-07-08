@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from urlextract import URLExtract
 from wordcloud import WordCloud
 import pandas as pd
@@ -107,7 +107,7 @@ def month_activity_map(selected_user,df):
 
 
 
-=======
+
 from urlextract import URLExtract
 from wordcloud import WordCloud
 import pandas as pd
