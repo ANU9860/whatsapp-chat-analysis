@@ -16,7 +16,7 @@ PIP
 
 virtualenv is a tool to create isolated Python environments. Since Python 3.3, a subset of it has been integrated into the standard library under the venv module. The venv module does not offer all features of this library, to name just a few more prominent:
 
--is slower (by not having the app-data seed method),
+-is slower (by not having the app-data seed method)
 
 -is not as extendable,
 
