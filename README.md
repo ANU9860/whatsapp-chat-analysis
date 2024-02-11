@@ -1,5 +1,5 @@
 # whatsapp-chat-analysis
-I developed a whatsapp chat analyser and used streamlit python library for building custom web applications for machine learning 
+I developed a whatsapp chat analyser and used streamlit python library for building custom web applications for machine learning
 
 **Link of video**
 https://www.loom.com/share/eefc56bfc36d42f8b2104be0d589df9d?sid=d399ced9-2d1c-467c-a5b9-cd13f7f53675
